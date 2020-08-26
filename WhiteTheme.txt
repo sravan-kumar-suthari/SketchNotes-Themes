@@ -1,0 +1,39 @@
+body{
+   background: #fff;
+}
+.token.keyword{
+  color: #0000ff;
+}
+#Page.SN-dark pre,.token.operator{
+  color: #393A34;
+}
+.token.function {
+	color: #7c4dff;
+}
+.token.string {
+	color: #A31515;
+}
+.token.punctuation {
+	color: #39adb5;
+}
+.token.parameter{
+  color:#004d75
+}
+.token.number{
+ color: #f76d47;
+}
+#IconChooser input{
+  border : 1px solid #000;
+}
+#IconChooser input::placeholder{
+  color:#000;
+}
+
+.Hello{
+  color:#000
+}
+
+
+
+
+
